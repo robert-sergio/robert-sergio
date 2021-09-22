@@ -1,5 +1,5 @@
-# 👋 <span style="color:blue"> Hi, I’m Robert Sergio</span>
-
+# 👋 <span style="color:blue"> Hi, I’m Robert Sergio :brazil:</span>
+  
 👨‍💻 I'm interested in projects about AI, IoT and Robotics. I will be glad to collaborate on projects about it!
 
 🌱 I’m currently learning Deep Learning using Pytorch
