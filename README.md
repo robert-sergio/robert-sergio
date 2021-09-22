@@ -7,7 +7,8 @@
 ⚙️ I'm currently working on the projects below. Feel free to give a look and contact me if you like to know more about it.
 * Chatbot using Pytorch
 * Virtual Assistant using Pytorch and Raspberry Pi
-
+* Apps using Kivy MD
+* Augmented Reality using Open CV
 
 📫 How to reach me
 * github io : robert-sergio.github.io
