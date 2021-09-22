@@ -11,7 +11,7 @@
 * Augmented Reality using Open CV
 
 📫 How to reach me
-* github io : https://www.robert-sergio.github.io
+* github io : https://robert-sergio.github.io
 * email : robert.sergio.eng@gmail.com
 * linkedIn : https://www.linkedin.com/in/robert-sergio/
 
