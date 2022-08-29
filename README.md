@@ -2,13 +2,7 @@
   
 👨‍💻 I'm interested in projects about AI, IoT and Robotics. I will be glad to collaborate on projects about it!
 
-🌱 I’m currently learning Deep Learning using Pytorch
-
-⚙️ I'm currently working on the projects below. Feel free to give a look and contact me if you like to know more about it.
-* Chatbot using Pytorch
-* Virtual Assistant using Pytorch and Raspberry Pi
-* Apps using Kivy MD
-* Augmented Reality using Open CV
+🌱 I’m currently learning Computer Vision and Arduino Stuff
 
 📫 How to reach me
 * github io : https://robert-sergio.github.io
