@@ -1,8 +1,12 @@
-# 👋 <span style="color:blue"> Hi, I’m Robert Sergio</span>
+# 👋 <span style="color:blue"> Hi, I’m Robert Sergio, but you can Call me Sergio!</span>
   
-👨‍💻 I'm interested in projects about AI, IoT and Robotics. I will be glad to collaborate on projects about it!
+:alien: I'm interested about a lot of Developing and Tech Stuff like every Nerd!
 
-🌱 I’m currently learning Computer Vision and Arduino Stuff
+:cupid: I love learning new things and technologies.
+
+🌱 Despite being a Python Developer, I’m currently learning Java Spring to improve my backend skills and Unreal Engine for Hobby.
+
+👨‍💻 I'm developing a Write and Reading books website like my Pet Project, check it out here!
 
 📫 How to reach me
 * github io : https://robert-sergio.github.io
