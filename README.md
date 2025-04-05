@@ -4,12 +4,10 @@
 
 :cupid: I love learning new things and technologies.
 
-🌱 Despite being a Python Developer, I’m currently learning Java Spring to improve my backend skills and Unreal Engine for Hobby.
+🌱 I am a Software Engineer, Skilled using Python.
 
-👨‍💻 I'm developing a Write and Reading books website like my Pet Project, check it out here!
 
 📫 How to reach me
-* github io : https://robert-sergio.github.io
 * email : robert.sergio.eng@gmail.com
 * linkedIn : https://www.linkedin.com/in/robert-sergio/
 
