@@ -1,4 +1,4 @@
-# 👋 <span style="color:blue"> Hi, I’m Robert Sergio, but you can Call me Sergio!</span>
+# 👋 <span style="color:blue"> Hi, I’m Robert Sergio</span>
   
 :alien: I'm interested about a lot of Developing and Tech Stuff like every Nerd!
 
